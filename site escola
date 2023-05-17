@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Colégio Estadual Carmela Dutra</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td width="30%" valing="top">
+                <img src="image.png" width="40%" aling="middle">
+           </td>
+           <td width="30%" valing="top" >
+            <h1> O Colégio Carmela Dutra teve seu início em 1947, apesar de não constar na documentação oficial,
+                 sendo oficializado sua criação com o decreto n 7457 de 29/03/1962,
+                 publicado no D.O. n 24 de 06/04/1962 como Grupo Escolar Carmela Dutra
+            </h1>
+            </td>
+        </tr>
+
+
+    </table>
+
+
+ 
+</body>
+</html>
